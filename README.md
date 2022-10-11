@@ -57,6 +57,6 @@ Languages and Tools🛠:
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Lathiya-parth/Lathiya-parth)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/Lathiya-parth?tab=repositories)!
 
 </div>
