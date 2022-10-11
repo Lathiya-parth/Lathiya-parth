@@ -6,7 +6,6 @@ I am interested in learning DS,C,Web Devlopment,.. would 💖 to grow my knowled
 
 
 - 🔭 I’m currently Learning A C language.
-- 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
