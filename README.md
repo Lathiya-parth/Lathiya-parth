@@ -34,7 +34,7 @@ Languages and Tools🛠:
 <br/>
 
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Lathiya-parth/Lathiya-parth">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
@@ -42,7 +42,7 @@ Languages and Tools🛠:
 
 
 
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+<a href="https://www.linkedin.com/in/parth-lathiya-5b171a242">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
@@ -57,6 +57,6 @@ Languages and Tools🛠:
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/Lathiya-parth/Lathiya-parth)!
 
 </div>
